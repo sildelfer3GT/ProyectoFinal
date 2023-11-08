@@ -1,0 +1,2 @@
+Nombre de Grupo: Wild Power
+El nombre de la base de datos debe ser Matriz en la base de datos Xampp 
